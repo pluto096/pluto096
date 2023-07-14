@@ -2,7 +2,7 @@
 
 I am currently an ALX SE student.
 
-And i'm also learning message queueing (streaming) with Apache Kafka.
+And i'm also learning message queueing (streaming) using Apache Kafka with Dataflair.
 
 
 ![pluto096's Stats](https://github-readme-stats.vercel.app/api?username=pluto096&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
